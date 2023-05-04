@@ -1,5 +1,5 @@
 <p>
-    <img src="https://i.ibb.co/WH8DLrF/image-header.gif" alt="#" align="right" width="100" height="100">
+    <img src="https://i.ibb.co/WH8DLrF/image-header.gif" alt="#" align="right" width="500" height="200">
     Hellow Word, I´m Luis 👋
 </p>
 
