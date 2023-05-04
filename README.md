@@ -2,7 +2,7 @@
     <img src="https://i.ibb.co/WH8DLrF/image-header.gif" alt="#" align="right" width="400" height="280">
     Hello World, I´m Luis 👋
 </h1>
-<h3 align="center">Estudiante de la universidad UPIICSA - IPN. 
+<h3>Estudiante de UPIICSA - IPN. <br>
         Cursando la Licenciaruraeb  Ciencias de la Informatica
 </h3>
 
