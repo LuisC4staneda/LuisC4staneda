@@ -1,10 +1,8 @@
-    <div class="header">
-        <p>
-            <img src="https://i.ibb.co/WH8DLrF/image-header.gif" alt="#" align="right">
-            Hellow Word, I´m Luis 👋
+<p>
+    <img src="https://i.ibb.co/WH8DLrF/image-header.gif" alt="#" align="right">
+    Hellow Word, I´m Luis 👋
+</p>
 
-        </p>
-    </div>
 
 
 
